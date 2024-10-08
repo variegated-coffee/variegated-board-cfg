@@ -17,7 +17,7 @@ struct HidBus {
 
 ```
 
-### board-config.toml
+### board-cfg.toml
 
 ```toml
 [hid_bus]
